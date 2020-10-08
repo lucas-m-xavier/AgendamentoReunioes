@@ -1,0 +1,77 @@
+FO: 18
+Reuniao no mes 3: 
+Dia: 11 Horario: 08:00 - 10:00
+Reuniao no mes 3: 
+Dia: 25 Horario: 08:00 - 10:00
+Reuniao no mes 4: 
+Dia: 15 Horario: 08:00 - 10:00
+Reuniao no mes 4: 
+Dia: 29 Horario: 08:00 - 10:00
+Reuniao no mes 5: 
+Dia: 13 Horario: 08:00 - 10:00
+Reuniao no mes 5: 
+Dia: 27 Horario: 08:00 - 10:00
+Reuniao no mes 6: 
+Dia: 10 Horario: 08:00 - 10:00
+Reuniao no mes 6: 
+Dia: 24 Horario: 08:00 - 10:00
+Reuniao no mes 7: 
+Dia: 8 Horario: 08:00 - 10:00
+
+Aulas Perdidas:
+Prof 1: 0 
+Prof 2: 0 
+Prof 3: 0 
+Prof 4: 0 
+Prof 5: 0 
+Prof 6: 0 
+Prof 7: 0 
+Prof 8: 0 
+Prof 9: 0 
+Prof 10: 0 
+Prof 11: 0 
+Prof 12: 0 
+Prof 13: 0 
+Prof 14: 0 
+Prof 15: 0 
+Prof 16: 0 
+Total de aulas perdidas: 0
+Numero medio de aulas perdidas: 0.000
+
+Aulas a noite antes de uma reuniao:
+Prof 1: 0 
+Prof 2: 0 
+Prof 3: 0 
+Prof 4: 0 
+Prof 5: 0 
+Prof 6: 0 
+Prof 7: 0 
+Prof 8: 0 
+Prof 9: 0 
+Prof 10: 0 
+Prof 11: 0 
+Prof 12: 0 
+Prof 13: 0 
+Prof 14: 0 
+Prof 15: 0 
+Prof 16: 0 
+Total de aulas a noite antes de uma reunião: 0
+
+Aulas no terceiro turno: 
+Prof 1: 0
+Prof 2: 0
+Prof 3: 0
+Prof 4: 0
+Prof 5: 0
+Prof 6: 0
+Prof 7: 0
+Prof 8: 9
+Prof 9: 0
+Prof 10: 0
+Prof 11: 0
+Prof 12: 0
+Prof 13: 0
+Prof 14: 0
+Prof 15: 9
+Prof 16: 0
+Total de aulas no terceiro turno: 18

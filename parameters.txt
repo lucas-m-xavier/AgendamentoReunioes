@@ -1,0 +1,4 @@
+Algoritmo Genético:
+Tamanho da população: 150
+Quantidade de cruzamentos: 100
+Taxa de mutação: 0.1
